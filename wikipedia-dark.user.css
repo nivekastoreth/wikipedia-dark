@@ -16,12 +16,14 @@
 
     a,
     .toctogglelabel,
-    .tocnumber {
+    .tocnumber,
+    .wb-langlinks-link {
         color: #b8c7d4 !important;
         text-decoration: none;
     }
 
-    a:hover {
+    a:hover,
+    .wb-langlinks-link:hover {
         color: #637ab5 !important;
         text-decoration: underline;
     }
