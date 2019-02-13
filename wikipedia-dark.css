@@ -9,8 +9,9 @@
     }
 
     a,
+    .toctogglelabel,
     .tocnumber {
-        color: #608dff !important;
+        color: #b8c7d4 !important;
         text-decoration: none;
     }
 
