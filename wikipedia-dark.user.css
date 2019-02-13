@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Wikipedia Dark (Custom)
 @namespace      github.com/openstyles/stylus
-@version        1.0.3
+@version        1.0.4
 @description    Customized Wikipedia Dark theme based on the theme by n0x
 @author         nivekastoreth
 ==/UserStyle== */
@@ -17,13 +17,13 @@
     a,
     .toctogglelabel,
     .tocnumber,
-    .wbc-editpage {
+    .wb-langlinks-link > a {
         color: #b8c7d4 !important;
         text-decoration: none;
     }
 
     a:hover,
-    .wbc-editpage:hover {
+    .wb-langlinks-link > a:hover {
         color: #637ab5 !important;
         text-decoration: underline;
     }
